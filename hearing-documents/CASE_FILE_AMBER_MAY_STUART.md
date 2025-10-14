@@ -21,12 +21,15 @@
 - **Court Location:** Liverpool Family Court
 
 ### Key Safety Concerns Documented:
-- **URGENT:** EU Emergency Protection Order breached - evidence on phone
-- Criminal fraud history: Mark Stuart (grandfather)
-- Sexual assault allegations: Joe Duffy (rape of sister Paula Stuart)
-- Multiple fraud activities involving Curtis James Stuart, Paula Stuart, Mark Stuart
-- Emergency protection order currently active but breached
-- Risk assessment indicates immediate danger requiring urgent action
+- **CRITICAL:** Child in immediate life-threatening danger
+- **Medical Neglect:** No inhaler provided - potentially fatal
+- **Dangerous Activities:** Child riding motorbike - risk of death/injury
+- **Physical Abuse:** Child has been abused and continues to be at risk
+- **Online Exploitation:** Inappropriate access to Snapchat and Roblox
+- **Multiple Abductions:** 4 separate abductions - UK (22 weeks old), Spain, UK, UK
+- **System Failure:** No authorities have helped recover child
+- **Criminal Activities:** Fraud history, sexual assault allegations
+- **Protection Order:** EU Emergency Protection Order being misused
 
 ---
 
