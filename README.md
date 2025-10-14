@@ -54,7 +54,8 @@ This file contains:
 **For Email to Solicitor:**
 1. Open `COMPLETE_CASE_FILE.md`
 2. Save as PDF
-3. Email to: murphybeth261@gmail.com (or your solicitor)
+3. Email to: [Your solicitor's verified email address]
+   - Note: Verify recipient address before sending sensitive documents
 
 **For Police Report:**
 1. Open `COMPLETE_CASE_FILE.md`

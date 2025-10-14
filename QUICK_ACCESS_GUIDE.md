@@ -214,7 +214,9 @@ Pre-work-guide/
 2. Select all (Ctrl+A or Cmd+A)
 3. Copy (Ctrl+C or Cmd+C)
 4. Paste into email body
-5. Send to: murphybeth261@gmail.com
+5. Send to: [your solicitor's email - verify address before sending]
+
+**⚠️ IMPORTANT:** Always verify the recipient email address before sending sensitive legal documents. The example email (murphybeth261@gmail.com) should be confirmed as correct before use.
 
 **Method 3: Share Link**
 1. If on GitHub, click `COMPLETE_CASE_FILE.md`
@@ -286,6 +288,8 @@ A: Section 3 of `COMPLETE_CASE_FILE.md` - Child Safety Concerns section.
 
 ---
 
-**Last Updated:** October 14, 2025  
+**Last Updated:** October 14, 2024  
 **Purpose:** Help you quickly find and use your complete case file  
-**Need Help?** All information is in COMPLETE_CASE_FILE.md
+**Need Help?** All information is in COMPLETE_CASE_FILE.md  
+
+**⚠️ CONFIDENTIALITY NOTICE:** The case files contain sensitive legal and personal information. Only share with authorized parties (solicitors, court officials, police, social services).
