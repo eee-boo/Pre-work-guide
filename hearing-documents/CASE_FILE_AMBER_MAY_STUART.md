@@ -21,6 +21,14 @@
 - **Court Location:** Liverpool Family Court
 
 ### Key Safety Concerns Documented:
+- **� SMOKING GUN:** Harassment charges filed IMMEDIATELY after May 4th, 2025 child application - PROVES RETALIATION
+- **TIMELINE PROOF:** Child application → Immediate fake charges → Shows systematic conspiracy
+- **RETALIATORY PROSECUTION:** Fake harassment charges to prevent child recovery
+- **�🚨 EXPLOSIVE:** Social worker impersonation fraud exposed
+- **SYSTEMATIC CORRUPTION:** "Jo Prince" is actually Nicola Duffy (family member)
+- **PROFESSIONAL FRAUD:** Fake Liverpool Social Services credentials
+- **CONFLICT OF INTEREST:** Duffy family member assessing own relatives
+- **ALL ORDERS VOID:** Previous decisions based on fraudulent evidence
 - **CRITICAL:** Child in immediate life-threatening danger
 - **Medical Neglect:** No inhaler provided - potentially fatal
 - **Dangerous Activities:** Child riding motorbike - risk of death/injury
@@ -59,6 +67,9 @@
 
 ### Criminal History Evidence:
 - [ ] **URGENT:** Phone photos showing EU protection order breach
+- [ ] **FRAUD ALERT:** Fake non-molestation order - document fraud
+- [ ] **FINANCIAL FRAUD:** Dishonest child money claims - benefit fraud
+- [ ] **COURT FRAUD:** Unlawful sentence based on false information
 - [ ] Police reports: Joe Duffy sexual assault allegations
 - [ ] Fraud conviction records: Mark Stuart (grandfather)
 - [ ] Court records of previous convictions
@@ -92,9 +103,19 @@
 ## ONGOING ACTIONS REQUIRED
 
 ### Immediate Priorities:
+- [ ] **SMOKING GUN:** Harassment charges filed IMMEDIATELY after May 4th, 2025 child application - PROVES RETALIATION
+- [ ] **CRITICAL:** Harassment trial October 31st, 2025 - FALSE ALLEGATIONS
+- [ ] **URGENT:** Prove timeline - child application May 4th → fake charges immediately after
+- [ ] **URGENT:** Challenge fraudulent harassment charges as abuse of process
+- [ ] **URGENT:** Non-molestation and occupation order applications evidence systematic retaliation
+- [ ] **URGENT:** Social worker impersonation fraud - verify "Jo Prince" vs Nicola Duffy
+- [ ] **URGENT:** Police refusing to help - escalate to complaints commission
+- [ ] **URGENT:** Contact social services emergency team immediately
+- [ ] **URGENT:** Apply directly to family court for emergency orders
+- [ ] **URGENT:** Get emergency legal aid for child protection case
+- [ ] Document all police refusals and system failures
 - [ ] Ensure all court orders are properly stamped and certified
 - [ ] Maintain detailed compliance records
-- [ ] Monitor any deadlines for responses or returns to court
 - [ ] Keep evidence organized and accessible
 
 ### Legal Representation:
@@ -122,9 +143,16 @@
 ### Evidence Documents:
 | Ref | Evidence Type | Date | Status | Location |
 |-----|---------------|------|---------|----------|
-| E001 | Criminal history records | [Date] | Filed | evidence/ |
-| E002 | Risk assessment | [Date] | Filed | evidence/ |
-| E003 | Police reports | [Date] | Filed | evidence/ |
+| E001 | **🚨 77 DOCUMENTED BREACHES - EXPLOSIVE EVIDENCE** | Oct 2025 | ✅ HAVE PROOF | evidence/ |
+| E002 | Systematic violations of court orders | [Date] | ✅ HAVE PROOF | evidence/ |
+| E003 | Pattern of criminal contempt of court | [Date] | ✅ HAVE PROOF | evidence/ |
+| E004 | Fake non-molestation order evidence | [Date] | ✅ HAVE PROOF | evidence/ |
+| E005 | Child benefit fraud evidence | [Date] | ✅ HAVE PROOF | evidence/ |
+| E006 | Medical neglect proof (no inhaler) | [Date] | ✅ HAVE PROOF | evidence/ |
+| E007 | Dangerous activity evidence (motorbike) | [Date] | ✅ HAVE PROOF | evidence/ |
+| E008 | Physical abuse documentation | [Date] | ✅ HAVE PROOF | evidence/ |
+| E009 | Multiple abduction timeline | [Date] | ✅ HAVE PROOF | evidence/ |
+| E010 | System failure documentation | [Date] | ✅ HAVE PROOF | evidence/ |
 
 ---
 
