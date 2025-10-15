@@ -20,6 +20,6 @@ This repository is intended for technical documentation and guides only.
 - **DO NOT** upload legal documents, court records, or private correspondence
 - **DO NOT** include personally identifiable information (PII) about any individuals
 - All content should be technical documentation or learning resources only
-- Violations of data protection policies may result in immediate removal and potential legal consequences
+- Violations of this policy will result in immediate content removal
 
 If you need to store sensitive information, use private repositories with appropriate access controls and encryption.
