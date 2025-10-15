@@ -12,4 +12,14 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 
 ## Purpose
 
-This repository is intended for technical documentation and guides only. Please do not store personal, confidential, or sensitive information in this repository.
+This repository is intended for technical documentation and guides only.
+
+**⚠️ IMPORTANT: Data Protection Policy**
+
+- **DO NOT** store personal, confidential, or sensitive information in this repository
+- **DO NOT** upload legal documents, court records, or private correspondence
+- **DO NOT** include personally identifiable information (PII) about any individuals
+- All content should be technical documentation or learning resources only
+- Violations of data protection policies may result in immediate removal and potential legal consequences
+
+If you need to store sensitive information, use private repositories with appropriate access controls and encryption.
