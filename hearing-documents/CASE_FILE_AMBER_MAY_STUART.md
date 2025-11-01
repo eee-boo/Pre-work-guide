@@ -4,8 +4,8 @@
 **Court:** Liverpool Family Court (UK) / Spanish Court (Original Order)  
 **Child:** Amber May Stuart  
 **Current Status:** Child taken in March 2022 - NOT RETURNED  
-**Date Child Taken:** March 2022 (during Spain holiday)  
-**Spanish Protection Order:** Issued March 2022 - NO END DATE  
+**Date Child Taken:** May  2019 (during Spain holiday)  
+**Spanish Protection Order:** Issued May 2019 12th - NO END DATE  
 **Date Opened:** October 14, 2025  
 
 ---
